@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoTracker</string>
+    <string name="file_name">todo</string>
+    <string name="doneSeparator">-</string>
+</resources>
