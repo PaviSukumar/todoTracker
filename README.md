@@ -1,2 +1,2 @@
 # todoTracker
-Todo tracker for Code Path project
+Todo tracker for Code Path project by Pavithra Sukumar
